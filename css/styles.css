@@ -137,16 +137,16 @@ body {
   cursor: pointer;
 }
 
-/*
 #login:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  background-color:transparent;
-  color:rgba(10,250,252,0.35);
-  border:1px solid rgba(10,250,252,1);
+  background-color: transparent;
+  color: rgba(10, 250, 252, 0.35);
+  border: 1px solid rgba(10, 250, 252, 1);
 }
 
+/*
 input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
 /*  color: rgba(110,250,252,0.55);
 }
