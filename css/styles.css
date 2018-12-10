@@ -114,12 +114,12 @@ body {
   text-align: center;
 }
 
-/*
 .loginFormContainer {
   width: 100%;
-  display:table-row;
+  display: table-row;
 }
 
+/*
 #login {
   -webkit-transition: all 300ms ease-out 0s;
   -moz-transition: all 300ms ease-out 0s;
