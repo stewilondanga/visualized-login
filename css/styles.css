@@ -90,13 +90,13 @@ body {
   z-index: 500;
 }
 
-/*
 .loginForm {
-  color:white;
-  margin-top:25px;
-  padding-bottom:25px;
+  color: white;
+  margin-top: 25px;
+  padding-bottom: 25px;
 }
 
+/*
 .loginForm label {
   width:30%;
   display:table-cell;
