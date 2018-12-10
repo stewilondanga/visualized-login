@@ -101,20 +101,20 @@ body {
   display: table-cell;
 }
 
-/*
 .loginForm input {
-  width:100%;
-  margin-left:15%;
-  margin-right:15%;
-  display:block;
-  background-color:transparent;
-  border:0px solid transparent;
-  border-bottom:1px solid rgba(10,250,252,1);
-  font-size:20px;
-  color:white;
-  text-align:center;
+  width: 100%;
+  margin-left: 15%;
+  margin-right: 15%;
+  display: block;
+  background-color: transparent;
+  border: 0px solid transparent;
+  border-bottom: 1px solid rgba(10, 250, 252, 1);
+  font-size: 20px;
+  color: white;
+  text-align: center;
 }
 
+/*
 .loginFormContainer {
   width: 100%;
   display:table-row;
