@@ -51,15 +51,15 @@ body {
   transform: translate(5px, 0px);
 }
 
-/*
 .testClass {
-  width:10px;
-  height:10px;
-  background-color:blue;
-  position:absolute;
-  z-index:100000;
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  position: absolute;
+  z-index: 100000;
 }
 
+/*
 #loginPicture {
   position:relative;
   width:250px;
