@@ -148,16 +148,17 @@ body {
 
 input::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  /*  color: rgba(110,250,252,0.55);
+  color: rgba(110, 250, 252, 0.55);
 }
-input::-moz-placeholder { /* Firefox 19+ */
-  /*  color: rgba(110,250,252,0.55);
+
+/*input::-moz-placeholder { /* Firefox 19+ */
+/*  color: rgba(110,250,252,0.55);
 }
 input:-ms-input-placeholder { /* IE 10+ */
-  /*  color: rgba(110,250,252,0.55);
+/*  color: rgba(110,250,252,0.55);
 }
 input:-moz-placeholder { /* Firefox 18- */
-  /*  color: rgba(110,250,252,0.55);
+/*  color: rgba(110,250,252,0.55);
 }
 
 #smile {
