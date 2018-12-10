@@ -96,12 +96,12 @@ body {
   padding-bottom: 25px;
 }
 
-/*
 .loginForm label {
-  width:30%;
-  display:table-cell;
+  width: 30%;
+  display: table-cell;
 }
 
+/*
 .loginForm input {
   width:100%;
   margin-left:15%;
