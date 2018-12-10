@@ -71,14 +71,14 @@ body {
   z-index: 200;
 }
 
-/*
 #loginPicture svg {
-  width:100%;
-  position:relative;
-  top:-25px;
-  z-index:0;
+  width: 100%;
+  position: relative;
+  top: -25px;
+  z-index: 0;
 }
 
+/*
 #loginOverlay {
   position:absolute;
   background-color:white;
