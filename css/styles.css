@@ -119,7 +119,6 @@ body {
   display: table-row;
 }
 
-/*
 #login {
   -webkit-transition: all 300ms ease-out 0s;
   -moz-transition: all 300ms ease-out 0s;
@@ -128,15 +127,17 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width:100%;
-  margin-top:25px;
-  padding:15px;
-  background-color:grey;
-  border:1px solid grey;
-  color:rgba(10,250,252,1);;
-  cursor:pointer;
+  width: 100%;
+  margin-top: 25px;
+  padding: 15px;
+  background-color: grey;
+  border: 1px solid grey;
+  color: rgba(10, 250, 252, 1);
+  ;
+  cursor: pointer;
 }
 
+/*
 #login:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
