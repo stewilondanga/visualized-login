@@ -59,19 +59,19 @@ body {
   z-index: 100000;
 }
 
-/*
 #loginPicture {
-  position:relative;
-  width:250px;
-  height:250px;
-  background-color:white;
-  border:5px solid rgba(10,250,252,0.35);
-  border-radius:180px;
-  margin:auto;
-  background-color:grey;
-  z-index:200;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background-color: white;
+  border: 5px solid rgba(10, 250, 252, 0.35);
+  border-radius: 180px;
+  margin: auto;
+  background-color: grey;
+  z-index: 200;
 }
 
+/*
 #loginPicture svg {
   width:100%;
   position:relative;
